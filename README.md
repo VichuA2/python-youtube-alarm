@@ -19,11 +19,16 @@ A Python-based alarm clock that plays your favorite YouTube video at a specific 
    ```bash
    git clone https://github.com/YOUR_USERNAME/python-youtube-alarm.git
    cd python-youtube-alarm
+
+---
+
 Edit the script (optional):
 
 Change the youtube_song_url to your favorite song.
 
 Modify the alarm time from "01:00" to your preferred time.
+
+---
 
 Run the script:
 
@@ -31,11 +36,15 @@ python alarm.py
 
 Keep your system and internet connection active before the alarm time.
 
+---
+
 💡 Example
 
 youtube_song_url = "https://youtu.be/6R4S_-vgUEw?si=Fnm1t6PyDUq823QW"
 
 This will open that YouTube link exactly at 1:00 AM.
+
+---
 
 ✅ Requirements
 
