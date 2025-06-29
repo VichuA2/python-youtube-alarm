@@ -27,20 +27,18 @@ Modify the alarm time from "01:00" to your preferred time.
 
 Run the script:
 
-bash
-Copy
-Edit
 python alarm.py
+
 Keep your system and internet connection active before the alarm time.
 
 💡 Example
-python
-Copy
-Edit
+
 youtube_song_url = "https://youtu.be/6R4S_-vgUEw?si=Fnm1t6PyDUq823QW"
+
 This will open that YouTube link exactly at 1:00 AM.
 
 ✅ Requirements
+
 Python 3.x
 
 No additional packages needed.
